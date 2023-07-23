@@ -8,7 +8,7 @@
 
 ## Objetivo
 <p>
-  Resolver míonimo 1 problema por semana. 
+  Resolver mínimo 1 problema por semana. 
 </p>
 
 ## Recursos
