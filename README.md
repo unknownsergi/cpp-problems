@@ -17,7 +17,7 @@
  Problemas de:
 </p>
 
-*  [Acepta El Reto](https://aceptaelreto.com/)https://aceptaelreto.com/
+*  [Acepta El Reto](https://aceptaelreto.com/)
 *  
 
 
