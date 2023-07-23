@@ -3,7 +3,7 @@
 ## Proposito Repositorio
 
 <p>
-  Realizar problemas de programación de distintos campos, mayoritariamente de algoritmos y estructura de datos, todo usando C++ para mejorar así en mi aventura con este lenguaje.
+  Realizar problemas de programación de distintos campos, mayoritariamente de algoritmos y estructura de datos, C++ será el lenguaje utilizado para mejorar así en mi aventura con el mismo.
 </p>
 
 ## Objetivo
@@ -14,11 +14,11 @@
 ## Recursos
 
 <p>
- Problemas de: 
-  - [Acepta El Reto](https://aceptaelreto.com/)https://aceptaelreto.com/ 
-  -
-  -
+ Problemas de:
 </p>
+
+*  [Acepta El Reto](https://aceptaelreto.com/)https://aceptaelreto.com/
+*  
 
 
 
