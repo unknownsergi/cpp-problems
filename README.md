@@ -13,10 +13,6 @@
 
 ## Recursos
 
-<p>
- Problemas de:
-</p>
-
 *  [Acepta El Reto](https://aceptaelreto.com/)
 *  
 
