@@ -14,7 +14,8 @@
 ## Recursos
 
 *  [Acepta El Reto](https://aceptaelreto.com/)
-*  
+*  LeetCode
+*  CodeWars
 
 
 
